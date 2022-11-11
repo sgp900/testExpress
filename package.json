@@ -1,0 +1,22 @@
+{
+  "name": "testExpress",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgp900/testExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgp900/testExpress/issues"
+  },
+  "homepage": "https://github.com/sgp900/testExpress#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
